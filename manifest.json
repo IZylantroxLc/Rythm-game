@@ -3,10 +3,14 @@
   "name": "CyberBeat - K-Pop Rhythm Game",
   "icons": [
     {
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiI7bsSFYzqIz324Q2wKu9GaFpKw84wgBRcX3_6LZoFl9FJb2XSxYyvdo&s=10",
+      "src": "https://cdn-icons-png.flaticon.com/512/3844/3844720.png",
       "type": "image/png",
-      "sizes": "536×536",
-      "purpose": "any maskable"
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3844/3844720.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "./index.html",
